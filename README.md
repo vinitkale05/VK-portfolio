@@ -1,6 +1,6 @@
-# Pranav Gawai — Portfolio
+# VINIT KALE — Portfolio
 
-Personal portfolio and blog for [Pranav Gawai](https://pranavx.in), built with React 19, TypeScript, and Tailwind CSS. Backed by Vercel Serverless Functions and MongoDB for AI chat, live analytics, and blog comments/reactions.
+Personal portfolio and blog for VINIT KALE, built with React 19, TypeScript, and Tailwind CSS. Backed by Vercel Serverless Functions and MongoDB for AI chat, live analytics, and blog comments/reactions.
 
 ![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
@@ -67,7 +67,7 @@ Personal portfolio and blog for [Pranav Gawai](https://pranavx.in), built with R
 ### Install
 
 ```bash
-git clone https://github.com/pranavgawaii/portfolio.git
+git clone https://github.com/vinitkale05/VK-portfolio.git
 cd portfolio
 npm install
 ```
@@ -122,4 +122,4 @@ No license file is currently included — all rights reserved by default. Add a 
 
 ---
 
-Built by [Pranav Gawai](https://github.com/pranavgawaii) · [pranavx.in](https://pranavx.in)
+Built by VINIT KALE
